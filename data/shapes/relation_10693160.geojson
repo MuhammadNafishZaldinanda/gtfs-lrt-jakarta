@@ -1,0 +1,539 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-26T07:53:16Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/10693160",
+        "colour": "#f16227",
+        "from": "Velodrome",
+        "name": "LRT Jakarta",
+        "name:en": "Jakarta LRT",
+        "name:fr": "Velodrome -> Pegangsaan Dua",
+        "name:id": "LRT Jakarta",
+        "network": "LRT Jakarta",
+        "public_transport:version": "2",
+        "ref": "LRT",
+        "route": "light_rail",
+        "to": "Pegangsaan Dua",
+        "type": "route",
+        "wikidata": "Q65762187"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8911499,
+            -6.192666
+          ],
+          [
+            106.8911527,
+            -6.1921303
+          ],
+          [
+            106.8911592,
+            -6.1910012
+          ],
+          [
+            106.8911389,
+            -6.1893953
+          ],
+          [
+            106.8911228,
+            -6.1889489
+          ],
+          [
+            106.8911019,
+            -6.1877074
+          ],
+          [
+            106.8911604,
+            -6.1850355
+          ],
+          [
+            106.8912417,
+            -6.1840586
+          ],
+          [
+            106.8912558,
+            -6.1839335
+          ],
+          [
+            106.8912831,
+            -6.1836924
+          ],
+          [
+            106.8912943,
+            -6.1835929
+          ],
+          [
+            106.891377,
+            -6.183143
+          ],
+          [
+            106.8918094,
+            -6.1807895
+          ],
+          [
+            106.8918607,
+            -6.180603
+          ],
+          [
+            106.8926051,
+            -6.1784771
+          ],
+          [
+            106.8926813,
+            -6.1783324
+          ],
+          [
+            106.8933719,
+            -6.1772953
+          ],
+          [
+            106.893858,
+            -6.176607
+          ],
+          [
+            106.8939942,
+            -6.176437
+          ],
+          [
+            106.894073,
+            -6.1763503
+          ],
+          [
+            106.894184,
+            -6.1762607
+          ],
+          [
+            106.8942736,
+            -6.1761961
+          ],
+          [
+            106.8943813,
+            -6.1761215
+          ],
+          [
+            106.8945421,
+            -6.1760349
+          ],
+          [
+            106.8947018,
+            -6.1759404
+          ],
+          [
+            106.8952829,
+            -6.175661
+          ],
+          [
+            106.8954746,
+            -6.1755476
+          ],
+          [
+            106.8955967,
+            -6.1754676
+          ],
+          [
+            106.895712,
+            -6.175381
+          ],
+          [
+            106.8958367,
+            -6.1752743
+          ],
+          [
+            106.89594,
+            -6.1751703
+          ],
+          [
+            106.8960768,
+            -6.175021
+          ],
+          [
+            106.8962216,
+            -6.1748303
+          ],
+          [
+            106.8972181,
+            -6.1733797
+          ],
+          [
+            106.897548,
+            -6.1728623
+          ],
+          [
+            106.8991479,
+            -6.1702903
+          ],
+          [
+            106.8994832,
+            -6.1697557
+          ],
+          [
+            106.8999908,
+            -6.1689794
+          ],
+          [
+            106.9019236,
+            -6.1659423
+          ],
+          [
+            106.9048494,
+            -6.1612223
+          ],
+          [
+            106.9050747,
+            -6.1608562
+          ],
+          [
+            106.9055899,
+            -6.1599617
+          ],
+          [
+            106.9058073,
+            -6.1596205
+          ],
+          [
+            106.9077893,
+            -6.1565106
+          ],
+          [
+            106.9077937,
+            -6.1564999
+          ],
+          [
+            106.9086027,
+            -6.1552394
+          ],
+          [
+            106.9088447,
+            -6.1548601
+          ],
+          [
+            106.9089294,
+            -6.1547464
+          ],
+          [
+            106.9090027,
+            -6.1546778
+          ],
+          [
+            106.9090814,
+            -6.1546203
+          ],
+          [
+            106.9091705,
+            -6.1545771
+          ],
+          [
+            106.9092633,
+            -6.1545539
+          ],
+          [
+            106.9092919,
+            -6.1545468
+          ],
+          [
+            106.9094123,
+            -6.1545366
+          ],
+          [
+            106.9096935,
+            -6.1545734
+          ],
+          [
+            106.9103552,
+            -6.1546688
+          ],
+          [
+            106.9108571,
+            -6.1547167
+          ],
+          [
+            106.9121885,
+            -6.1548063
+          ],
+          [
+            106.913759,
+            -6.1548856
+          ],
+          [
+            106.9138336,
+            -6.1548968
+          ],
+          [
+            106.9138968,
+            -6.1549119
+          ],
+          [
+            106.9139561,
+            -6.1549328
+          ],
+          [
+            106.9140251,
+            -6.1549713
+          ],
+          [
+            106.9140744,
+            -6.15501
+          ],
+          [
+            106.9141194,
+            -6.1550444
+          ],
+          [
+            106.9141718,
+            -6.1550963
+          ],
+          [
+            106.9142209,
+            -6.1551623
+          ],
+          [
+            106.9142548,
+            -6.1552282
+          ],
+          [
+            106.9142801,
+            -6.1552965
+          ],
+          [
+            106.9142968,
+            -6.1553785
+          ],
+          [
+            106.9143047,
+            -6.1554662
+          ],
+          [
+            106.9143069,
+            -6.1555618
+          ],
+          [
+            106.9143009,
+            -6.1559132
+          ],
+          [
+            106.9142841,
+            -6.15721
+          ]
+        ]
+      },
+      "id": "relation/10693160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196137576",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10693160,
+            "reltags": {
+              "colour": "#f16227",
+              "from": "Velodrome",
+              "name": "LRT Jakarta",
+              "name:en": "Jakarta LRT",
+              "name:fr": "Velodrome -> Pegangsaan Dua",
+              "name:id": "LRT Jakarta",
+              "network": "LRT Jakarta",
+              "public_transport:version": "2",
+              "ref": "LRT",
+              "route": "light_rail",
+              "to": "Pegangsaan Dua",
+              "type": "route",
+              "wikidata": "Q65762187"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8911527,
+          -6.1921303
+        ]
+      },
+      "id": "node/6196137576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196137578",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10693160,
+            "reltags": {
+              "colour": "#f16227",
+              "from": "Velodrome",
+              "name": "LRT Jakarta",
+              "name:en": "Jakarta LRT",
+              "name:fr": "Velodrome -> Pegangsaan Dua",
+              "name:id": "LRT Jakarta",
+              "network": "LRT Jakarta",
+              "public_transport:version": "2",
+              "ref": "LRT",
+              "route": "light_rail",
+              "to": "Pegangsaan Dua",
+              "type": "route",
+              "wikidata": "Q65762187"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8912417,
+          -6.1840586
+        ]
+      },
+      "id": "node/6196137578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196137581",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10693160,
+            "reltags": {
+              "colour": "#f16227",
+              "from": "Velodrome",
+              "name": "LRT Jakarta",
+              "name:en": "Jakarta LRT",
+              "name:fr": "Velodrome -> Pegangsaan Dua",
+              "name:id": "LRT Jakarta",
+              "network": "LRT Jakarta",
+              "public_transport:version": "2",
+              "ref": "LRT",
+              "route": "light_rail",
+              "to": "Pegangsaan Dua",
+              "type": "route",
+              "wikidata": "Q65762187"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8933719,
+          -6.1772953
+        ]
+      },
+      "id": "node/6196137581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196137584",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10693160,
+            "reltags": {
+              "colour": "#f16227",
+              "from": "Velodrome",
+              "name": "LRT Jakarta",
+              "name:en": "Jakarta LRT",
+              "name:fr": "Velodrome -> Pegangsaan Dua",
+              "name:id": "LRT Jakarta",
+              "network": "LRT Jakarta",
+              "public_transport:version": "2",
+              "ref": "LRT",
+              "route": "light_rail",
+              "to": "Pegangsaan Dua",
+              "type": "route",
+              "wikidata": "Q65762187"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8999908,
+          -6.1689794
+        ]
+      },
+      "id": "node/6196137584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196137582",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10693160,
+            "reltags": {
+              "colour": "#f16227",
+              "from": "Velodrome",
+              "name": "LRT Jakarta",
+              "name:en": "Jakarta LRT",
+              "name:fr": "Velodrome -> Pegangsaan Dua",
+              "name:id": "LRT Jakarta",
+              "network": "LRT Jakarta",
+              "public_transport:version": "2",
+              "ref": "LRT",
+              "route": "light_rail",
+              "to": "Pegangsaan Dua",
+              "type": "route",
+              "wikidata": "Q65762187"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9058073,
+          -6.1596205
+        ]
+      },
+      "id": "node/6196137582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11630425911",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10693160,
+            "reltags": {
+              "colour": "#f16227",
+              "from": "Velodrome",
+              "name": "LRT Jakarta",
+              "name:en": "Jakarta LRT",
+              "name:fr": "Velodrome -> Pegangsaan Dua",
+              "name:id": "LRT Jakarta",
+              "network": "LRT Jakarta",
+              "public_transport:version": "2",
+              "ref": "LRT",
+              "route": "light_rail",
+              "to": "Pegangsaan Dua",
+              "type": "route",
+              "wikidata": "Q65762187"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9142841,
+          -6.15721
+        ]
+      },
+      "id": "node/11630425911"
+    }
+  ]
+}
